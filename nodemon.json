@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_CONNSTRING": "mongodb+srv://zetta:zetta@cluster0.9s4nu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+        "PORT": 8080
+    }
+}
